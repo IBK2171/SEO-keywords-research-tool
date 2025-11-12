@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SEO Keyword Tool",
+  "description": "A tool for generating related keywords and simulating their SEO metrics like difficulty, search volume, content ideas, and SERP features using the Gemini API.",
+  "requestFramePermissions": []
+}
